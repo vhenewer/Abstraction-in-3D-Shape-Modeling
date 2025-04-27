@@ -1,7 +1,7 @@
 # Abstraction in 3D Shape Modeling
 
-## Project Overview
-This project demonstrates the concept of abstraction and polymorphism in Python using an abstract base class for 3D shapes.
+## Assignment Overview
+This assignment demonstrates the concept of abstraction and polymorphism in Python using an abstract base class for 3D shapes.
 
 The project includes:
 - An abstract class `Shape3D`.
