@@ -15,3 +15,5 @@ It includes:
 - `screenshots/`: Contains screenshots of outputs.
 
 ![Alt Text](https://github.com/vhenewer/Abstraction-in-3D-Shape-Modeling/blob/main/screenshot.1-5.png)
+
+![Alt Text](https://github.com/vhenewer/Abstraction-in-3D-Shape-Modeling/blob/main/screenshot.6-10.png)
