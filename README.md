@@ -13,3 +13,5 @@ It includes:
 - `shapes.py`: Contains all class definitions.
 - `main.py`: Generates random shapes and displays their properties.
 - `screenshots/`: Contains screenshots of outputs.
+
+![Alt Text](https://github.com/vhenewer/Abstraction-in-3D-Shape-Modeling/blob/main/screenshot.1-5.png)
